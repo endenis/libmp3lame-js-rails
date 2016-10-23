@@ -8,6 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Libmp3lame::Js::Rails::VERSION
   spec.authors       = ["endenis"]
   spec.email         = ["public.endenis@gmail.com"]
+  spec.licenses      = ['LGPL']
 
   spec.summary       = %q{Rails gem for libmp3lame-js dependency}
   spec.description   = %q{Rails gem for libmp3lame-js dependency}
